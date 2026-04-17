@@ -8,6 +8,14 @@
 
 **Contact:** Telegram / Discord / Signal
 
+Mail: a0pasokon@gmail.com
+
+Telegram: @lambda1919
+
+Signal: pasokon_net.19
+
+Discord: pasokon_net
+
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma" />
 
 -----
