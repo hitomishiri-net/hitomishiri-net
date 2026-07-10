@@ -36,6 +36,28 @@ Fueled by the raw self-consciousness of a 17-year-old, I write "embarrassing poe
 
 I acknowledge that my work is often naive and overly poetic. Yet, I am committed to converting that poetry into **Structure** and building it into something functional that others can use.
 
+Recently, however, I have stopped placing all trust and responsibility onto the interface itself.
+
+An interface is only an aid. The fragile abstractions born from the Internet can offer the illusion of omniscience, yet they grant no real agency.
+
+I have come to believe that it is possible—and necessary—to trust the person in front of me a little more, while accepting my own share of responsibility for the relationship.
+
+The moment I no longer feel the need for a “Human Instrumentality Project,” the moment I stop trying to solve every human relationship as a problem, I can finally begin to see the person who is actually there.
+
+Perhaps everything written here is simply an adolescent fantasy that leaked into Computer Science. Because of that, I constantly question whether my ideas have become arrogant. That is why I continue to prefer abstraction—not as an escape from reality, but as a reminder of my own limits.
+
+One direction I am exploring is to transform my experiences into stories—or perhaps “Braindances”—that others can re-experience through computational structures.
+
+Ironically, if I ever become completely confident in myself through success, I fear I may begin to resemble the kind of triumphant technologist I have always resisted—someone who mistakes success for certainty, and confidence for understanding.
+
+My current answer is intentionally modest.
+
+Rather than claiming to change society, I want to build systems that let people experience dreams. Small, economically insignificant toys for curious people.
+
+If someone finds value in them, I will be grateful—not because I have succeeded in the market, but because I was able to care for another person through something I built.
+
+By allowing these dreams to remain embarrassingly personal, I hope to build an architecture that preserves humility alongside creation.
+
 -----
 
 ## Core Thesis
