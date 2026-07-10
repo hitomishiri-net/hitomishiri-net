@@ -14,7 +14,7 @@ Telegram: @lambda1919
 
 Signal: pasokon_net.19
 
-Discord: pasokon_net
+Discord: aexptll
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma" />
 
@@ -71,18 +71,6 @@ I used to use "cynicism" as a defense mechanism to keep the world at a distance.
   * **Concept:** Using physical street stickers as decentralized data carriers.
   * **Function:** Generates QR stickers that store/exchange data locally. It’s a physical-world Nostr client for swapping profiles and art without a central authority.
   * **Vision:** Treating the physical city as a hosting provider for a distributed network.
-
-### 2\. Stargazing Club (The Protocol of Silence)
-
-  * **Concept:** An anonymous school club designed to lower "social pressure."
-  * **Logic:** By sharing the non-human scale of the night sky, we reduce the friction of human egos.
-  * **Rules:** Telegram-only, no real names, no grades/classes, strictly focusing on the shared view of the sky. A protocol for connecting in real space while remaining anonymous.
-
-### 3\. draw; (Algorithmic Banquet)
-
-  * **Concept:** A research group generating visuals and sound through math.
-  * **Function:** Live coding with GLSL and TidalCycles. Viewing visuals not as a "recorded result," but as a "computational process."
-
 -----
 
 ## Personal Note
